@@ -1,4 +1,4 @@
-# ![favicon-32x32](/uploads/4944dc5a980a3538a92716548917d7ca/favicon-32x32.png) GGANBU.GG (깐부.GG)
+# ![favicon-32x32](https://user-images.githubusercontent.com/67624305/204269199-1f804535-4ff1-499b-9f0f-56aa5787c637.png) GGANBU.GG (깐부.GG)
 빅데이터를 활용한 롤 챔피언 추천
 
 <br/>
@@ -67,7 +67,7 @@ feature : 세부 기능을 개발하는 브랜치
 <br/><br/><br/>
 
 ### 개발 환경
-- **Frontend** (프론트에서 보고 고쳐주셈)
+- **Frontend**
   - HTML5, CSS3, JS(ES6)
   - Next.js
   - Visual Studio Code
@@ -107,42 +107,17 @@ feature : 세부 기능을 개발하는 브랜치
 
 <br/>
 
-- **목표**
-    - 
-
-<br/>
-
 - **와이어프레임**(figma)
 
-![KakaoTalk_20221007_180853053](/uploads/758295cbcbf25abae2cba5382ae0ace5/KakaoTalk_20221007_180853053.png)
+![와이어프레임](https://user-images.githubusercontent.com/67624305/204264259-39c3ec44-1d21-4cc6-a4ce-3e66d6de4474.png)
 
 <br/>
 
 - **ERD**
 
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![ERD](https://user-images.githubusercontent.com/67624305/204268725-bf664533-a799-49a4-a1b5-72b0da191e7a.png)
 
 <br/>
-
-- **화면정의서**
-
-<img src="/uploads/17028b920dfb76d79d4f25ac38f2e5c7/image.png" width="45%"> <img src="/uploads/88ce51527c0d7d02181a6cc210c85a8c/image.png" width="45%">
-<img src="/uploads/07d3045d7c2c95165181bf8541b3d3e3/image.png" width="45%"> <img src="/uploads/6ba5be1bcdd1e14a3bef9a918cf2de0d/image.png" width="45%">
-<img src="/uploads/4a466c788d73adb7a2ec93b17f838a2a/image.png" width="45%">
-
-<br/>
-
-<img src="/uploads/f530e8f431395ad1d73d72bdf5db4d85/image.png" width="45%"> <img src="/uploads/d6d7718c53f86086e75fd6de0eb78886/image.png" width="45%">
-<img src="/uploads/6fe31aab8ca622964259fb8ff651c9fa/image.png" width="45%">
-
-<br/>
-
-- **시퀀스 다이어그램**
-
-<img src="/uploads/174558e5e0ad665433136461962f2adc/image.png" width="45%"> <img src="/uploads/6dd1c4a71dd68df28d9655548b462d9e/image.png" width="45%">
-<img src="/uploads/71855836f707b1c0e8f07b42ab90fa63/image.png" width="45%"> <img src="/uploads/b83155f8fa963d9d3e774aaa12cfda49/image.png" width="45%">
-<img src="/uploads/f9dcee540d384403ea660dff248fd6e3/image.png" width="45%"> <img src="/uploads/54ba1d146c6d84c83a8aa632b89ade6f/image.png" width="45%">
-
 
 <br/><br/><br/>
 
@@ -185,33 +160,33 @@ feature : 세부 기능을 개발하는 브랜치
 ## 📌주요 기능
 
 ### 홈페이지
-![홈화면-블랙](/uploads/2a2b014197dbd11e75fc784dd4db3848/홈화면-블랙.PNG)
-![홈화면-화이트](/uploads/a4a216cdcae0ad73790631c593f6aeed/홈화면-화이트.PNG)
+![홈화면-블랙](https://user-images.githubusercontent.com/67624305/204265197-29f3bb3d-318d-4f16-8311-ae323cafb170.PNG)
+![홈화면-화이트](https://user-images.githubusercontent.com/67624305/204265205-7a1cfa53-82fa-4831-a331-903ebee5d9db.PNG)
 
 ### 챔피언 추천
-![챔피언추천-깐부](/uploads/6bf6e64e8f6403df42a7f8be057c532e/챔피언추천-깐부.PNG)
-![챔피언추천-전체](/uploads/f2b7a46df2dfbfd27edf373383b182ca/챔피언추천-전체.PNG)
-![추천결괴-1](/uploads/e8f65fa3970d1ac00499f396d4a10e06/추천결괴-1.PNG)
-![추천결과-2](/uploads/9eedf792238ebf779e7aa8c1c1bc622d/추천결과-2.PNG)
+![챔피언추천-깐부](https://user-images.githubusercontent.com/67624305/204265312-4e958345-e760-40f1-af58-7b275d1d905b.PNG)
+![챔피언추천-전체](https://user-images.githubusercontent.com/67624305/204265322-c5a527f3-6532-407b-9002-63d48fce3a01.PNG)
+![추천결괴-1](https://user-images.githubusercontent.com/67624305/204265472-d458beaf-bce2-4d58-b047-c875340c5e41.PNG)
+![추천결과-2](https://user-images.githubusercontent.com/67624305/204265481-3e0f7761-a60f-4606-91bf-323c7fe57c84.PNG)
 
 #### 챔피언 보기
-![챔피언보기](/uploads/2ba880566b98174d011a4aaf229a0702/챔피언보기.PNG)
-![챔피언보기-단어구름](/uploads/04245755a1dffb78dc79cdb649bdda3b/챔피언보기-단어구름.PNG)
+![챔피언보기](https://user-images.githubusercontent.com/67624305/204265582-f46d29a3-5a2e-418a-a940-a98520b227c1.PNG)
+![챔피언보기-단어구름](https://user-images.githubusercontent.com/67624305/204265595-1619ee92-a66f-48de-850f-b0ac88281bd6.PNG)
 
 ### 게임
 #### 지역찾기
-![지역찾기](/uploads/13d8a33e05853b8e2dcd13ab2753e7fb/지역찾기.PNG)
+![지역찾기](https://user-images.githubusercontent.com/67624305/204265731-cd94393b-c227-420e-9dcf-518df93f036f.PNG)
 #### 스킬 맞추기
-![스킬맞추기](/uploads/531ca750f5c349d99724155ef6e7254f/스킬맞추기.PNG)
+![스킬맞추기](https://user-images.githubusercontent.com/67624305/204265747-738d9649-bc9b-4f12-b951-b6385ef17c86.PNG)
 #### 말파이트 궁피하기
-![궁피하기](/uploads/b75a21db4989eddb9bb7723ccb04d17d/궁피하기.PNG)
+![궁피하기](https://user-images.githubusercontent.com/67624305/204265759-1ab5fd2a-09bd-4c3c-99dc-6c002af24513.PNG)
 
 ### 이상형 월드컵
-![이상형월드컵](/uploads/da9ceef86c1c7c6f4fea62f2543f0f90/이상형월드컵.PNG)
-![이상형월드컵-결과](/uploads/4a00d3fd45c62845f5e4202fb9eb33cb/이상형월드컵-결과.PNG)
+![이상형월드컵](https://user-images.githubusercontent.com/67624305/204265872-2da6bd8f-90ed-4226-9491-1f90f8d33636.PNG)
+![이상형월드컵-결과](https://user-images.githubusercontent.com/67624305/204265876-1253fc16-702a-451f-91b7-b4214c0b1ee5.PNG)
 
 ### 노래
-![음악](/uploads/aef11a5e3ff6b6ce3d1dcd5b00059ac0/음악.PNG)
+![음악](https://user-images.githubusercontent.com/67624305/204265968-f1e5baab-5420-4bea-a04c-661c69433a46.PNG)
 
 
 <br/><br/><br/>
@@ -247,7 +222,7 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 
 ## ⚙시스템 환경 및 구성
 
-![아키텍쳐_구성도](/uploads/2875e286d6697beb7f1103018bdaf1bb/아키텍쳐_구성도.png)
+![아키텍쳐_구성도](https://user-images.githubusercontent.com/67624305/204266847-50c1232a-29ff-4a84-9064-6dd8a1bc84a0.png)
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
@@ -280,10 +255,6 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 - 박무창: 게임을 좋아하는 개발자로서 가장 좋아하는 게임의 API를 기반으로 주제를 정하고 프로젝트를 진행할 수 있어서 개발하면서 즐거웠습니다. 이전 프로젝트에서 경험하지 못했던 새로운 기술들을 익히고 접목시켜볼 수 있었고, 새로운 문제점들을 발견하고 수정해가는 과정을 통해 프론트엔드 개발에 대한 전반적인 지식을 기존보다 더욱 넓힐 수 있었습니다. 프로젝트를 진행하는 동안 저의 멈추지 않는 추진력을 버텨가면서 잘 따라와 준 팀원들에게 감사함을 표합니다.
 
 <br/><br/><br/>
-
-## 🎞최종산출물(시연 영상)
-영상 링크?
-
 <br/><br/><br/>
 
 
